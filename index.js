@@ -21,3 +21,11 @@ function currentLine(line){
   }
   return returnString.slice(0, -2);
 }
+
+
+const line = []
+
+takeANumber(line, "Josh")
+takeANumber(line, "Adam")
+takeANumber(line, "Kayla")
+takeANumber(line, "Josh")
