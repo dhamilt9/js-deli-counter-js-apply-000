@@ -25,7 +25,7 @@ function currentLine(line){
 
 const line = []
 
-takeANumber(line, "Josh")
-takeANumber(line, "Adam")
-takeANumber(line, "Kayla")
+console.log(takeANumber(line, "Josh"))
+console.log(takeANumber(line, "Adam"))
+console.log(takeANumber(line, "Kayla"))
 console.log(takeANumber(line, "Josh"))
