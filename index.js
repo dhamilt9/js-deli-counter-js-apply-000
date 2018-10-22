@@ -28,4 +28,4 @@ const line = []
 takeANumber(line, "Josh")
 takeANumber(line, "Adam")
 takeANumber(line, "Kayla")
-takeANumber(line, "Josh")
+console.log(takeANumber(line, "Josh"))
